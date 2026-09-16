@@ -1,3 +1,7 @@
 [submodule "shooting-game"]
 	path = shooting-game
 	url = git@github.com:Sanjar0126/js-shooting-game.git
+
+[submodule "go-pixel-art"]
+	path = go-pixel-art
+	url = git@github.com:Sanjar0126/go-pixel-art.git
